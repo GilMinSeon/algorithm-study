@@ -13,5 +13,6 @@ public class P01 {
     private static int[] solution(int[] arr) {
         Arrays.sort(arr);
         return arr;
+
     }
 }
